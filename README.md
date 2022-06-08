@@ -1,5 +1,5 @@
 # arti-project
-mobile phones doesn't have so much computational power, but most of assistnt programs are made for mobile phones, in this project we are going to make a smart windows assistant using artificial intelligence.
+mobile phones usually doesn't have so much computational power, but most of assistnt programs are made for mobile phones, in this project we are going to make a smart windows assistant using artificial intelligence.
 # what can it do?
 using the power of artificial intelligence it can:
  - work offline unlike most of assistants
