@@ -8,4 +8,4 @@ using the power of artificial intelligence it can:
  - have a face that can presents feelings (maybe?)
  - learn the accent or personality of the user to be accurate in commands (maybe?)
 -------------
-afterall it might not be able to run smoothly in all computers but you can make sure its smarter than every other assistants and someone may actually use it in common unlike some assistant programs.
+afterall it might not be able to run smoothly in all computers but you can make sure its smarter than every other assistants and someone may actually use it in common unlike most assistant programs.
