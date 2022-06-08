@@ -4,7 +4,7 @@ mobile phones doesn't have so much computational power, but most of assistnt pro
 using the power of artificial intelligence it can:
  - work offline unlike most of assistants
  - be programmable to do new things, using add-ons that can be installed simply
- - be generative in speaches do not repaitly say some programmed sentences
+ - be generative in speaches do not repeatedly say some programmed sentences
  - have a face, presents feelings (maybe?)
  - learn the accent or personality of the user (maybe?)
 -------------
